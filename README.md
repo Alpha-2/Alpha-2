@@ -1,1 +1,3 @@
 ### Dobry👋
+
+Początkujący programista C#
